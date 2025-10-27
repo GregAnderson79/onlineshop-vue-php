@@ -3,10 +3,10 @@
 namespace Database;
 
 class Model {
-    private $host_name = 'db5017638471.hosting-data.io';
-    private $database = 'dbs14112778';
-    private $user_name = 'dbu4611353';
-    private $password = 'jakiiri28839';
+    private $host_name = '***************';
+    private $database = '***************';
+    private $user_name = '***************';
+    private $password = '***************';
 
     protected function connect() {
         try {
